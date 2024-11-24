@@ -97,13 +97,13 @@ We welcome contributions to improve the **Simple Paint Application**! To contrib
 ### 📜 Copyright Notice
 
 By contributing to this project, you agree that your contributions will be licensed under the same license as this project.  
-Refer to the [`LICENSE`](./LICENSE) file for more details.
+Refer to the [`LICENSE`](https://github.com/Purohit1999/Simple-Paint-Application/blob/main/LICENSE) file for more details.
 
 ---
 
 ## 🛡️ License
 
-This project is licensed under the MIT License. See the [`LICENSE`](/) file for more information.
+This project is licensed under the MIT License. See the [`LICENSE`](https://github.com/Purohit1999/Simple-Paint-Application/blob/main/LICENSE) file for more information.
 
 ---
 
